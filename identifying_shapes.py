@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+    
 
 # Load the target image with the shapes we're trying to match
 target = cv2.imread('images/someshapes.jpg') 
